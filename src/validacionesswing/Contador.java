@@ -35,7 +35,10 @@ public class Contador {
     }
 
     public void contadorLetras() {
-
+                                         
     }
+
+public void nada(){
+}
 
 }
