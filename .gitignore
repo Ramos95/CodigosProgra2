@@ -4,5 +4,6 @@
 build/
 nbbuild/
 dist/
+src/Contador.java.save
 nbdist/
 .nb-gradle/
